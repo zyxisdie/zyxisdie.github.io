@@ -3,7 +3,7 @@
 
 
 ## Want to build your own?
-Please use the open-source template available here: **[zyxisdie/academic-homepage-template](https://github.com/zyxisdie)**. It includes documentation and is ready for you to customize.
+Please use the open-source template available here: **[Msztop/academic-homepage-template](https://github.com/Msztop)**. It includes documentation and is ready for you to customize.
 
 
 ## License
